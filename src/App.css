@@ -1,0 +1,16 @@
+body{
+  background-color:rgb(110, 110, 222) ;
+
+}
+.card-title{
+  text-align: center;
+  color: gray;
+  margin-top: 1em;
+}
+.card-text{
+  text-align: center;
+}
+.list-group{
+  border: none!important;
+  padding-left: 1em;
+}
