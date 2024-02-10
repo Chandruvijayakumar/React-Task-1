@@ -1,6 +1,5 @@
 body{
   background-color:rgb(110, 110, 222) ;
-
 }
 .card-title{
   text-align: center;
@@ -13,4 +12,18 @@ body{
 .list-group{
   border: none!important;
   padding-left: 1em;
+}
+h1{
+  text-align: center;
+  font-family: Merienda;
+}
+.btn{
+  border-radius: 2em;
+  padding: 0.7em;
+}
+.fa-x{
+  color: gray;
+}
+.gray{
+  color: gray;
 }
